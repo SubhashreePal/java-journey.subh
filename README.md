@@ -10,6 +10,27 @@ Prepare for DSA and Backend Development
 
 Maintain a daily GitHub contribution streak
 
+Day 1 - Hello World
+
+Day 2 - Variables and Data Types
+
+Day 3 - Operators
+
+Day 4 - User Input
+
+Day 5 - If Else Statements
+
+Day 6 - Switch Statements
+
+Day 7 - For Loops
+
+Day 8 - Nested Loops and Patterns
+
+Day 9 - Arrays
+
+Day 10 - Methods (Functions)
+
+
 ### **Day 1 - Hello World**
 Introduction to Java
 
@@ -73,3 +94,5 @@ break
 default
 
 Building simple menu-driven programs
+
+
