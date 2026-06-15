@@ -32,67 +32,97 @@ Day 10 - Methods (Functions)
 
 
 ### **Day 1 - Hello World**
-Introduction to Java
+- Introduction to Java
 
-First Java Program
+- First Java Program
 
-Printing output using System.out.println()
+- Printing output using System.out.println()
 
 ### **Day 2 - Variables and Data Types**
-Variables
+- Variables
 
-int
+- int
 
-double
+- double
 
-char
+- char
 
-boolean
+- boolean
 
-String
+- String
 
 ### **Day 3 - Operators**
 
 Arithmetic Operators
 
-Addition (+)
+- Addition (+)
 
-Subtraction (-)
+- Subtraction (-)
 
-Multiplication (*)
+- Multiplication (*)
 
-Division (/)
+- Division (/)
 
-Modulus (%)
+- Modulus (%)
 
 ### **Day 4 - User Input**
 
-Scanner Class
+- Scanner Class
 
-Taking input from users
+- Taking input from users
 
-Reading Strings and Numbers
+- Reading Strings and Numbers
 
 ### **Day 5 - If Else Statements**
 
-Conditional Statements
+Conditional Statements :
 
-if
+- if
 
-else if
+- else if
 
-else
+- else
 
 Decision Making
 
 ### **Day 6 - Switch Statements**
 
-switch case
+- switch case
 
-break
+- break
 
-default
+- default
 
 Building simple menu-driven programs
 
+## Day 7 - For Loops
 
+- Introduction to Loops
+- for Loop Syntax
+- Printing Numbers using Loops
+- Printing Repeated Text
+- Even Number Programs
+
+## Day 8 - Nested Loops and Patterns
+
+- Nested Loops
+- Star Patterns
+- Reverse Star Patterns
+- Number Patterns
+- Understanding Rows and Columns
+
+## Day 9 - Arrays
+
+- Introduction to Arrays
+- Array Declaration and Initialization
+- Accessing Elements using Index
+- Traversing Arrays using Loops
+- Finding Sum of Array Elements
+
+## Day 10 - Methods (Functions)
+
+- Creating Methods
+- Calling Methods
+- Methods with Parameters
+- Return Values
+- Code Reusability using Functions
