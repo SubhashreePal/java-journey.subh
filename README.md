@@ -126,3 +126,40 @@ Building simple menu-driven programs
 - Methods with Parameters
 - Return Values
 - Code Reusability using Functions
+
+## Day 11 - Strings
+
+- Introduction to Strings
+- String Declaration and Initialization
+- String Methods
+  - length()
+  - toUpperCase()
+  - toLowerCase()
+  - charAt()
+  - contains()
+- Taking String Input using Scanner
+
+## Day 12 - 2D Arrays
+
+- Introduction to 2D Arrays
+- Matrix Representation
+- Accessing Elements using Row and Column Index
+- Traversing 2D Arrays using Nested Loops
+- Finding Sum of Matrix Elements
+
+## Day 13 - Classes and Objects
+
+- Introduction to Object-Oriented Programming (OOP)
+- Creating Classes
+- Creating Objects
+- Instance Variables
+- Methods inside Classes
+- Working with Multiple Objects
+
+## Day 14 - Constructors
+
+- Introduction to Constructors
+- Parameterized Constructors
+- Object Initialization
+- Using this Keyword
+- Creating Objects with Constructors
