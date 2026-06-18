@@ -163,3 +163,17 @@ Building simple menu-driven programs
 - Object Initialization
 - Using this Keyword
 - Creating Objects with Constructors
+
+# Day 15 - Inheritance
+
+Inheritance allows one class to acquire the properties and methods of another class.
+
+Syntax:
+
+class Child extends Parent {
+}
+
+Benefits:
+- Code Reusability
+- Reduced Duplication
+- Better Organization
