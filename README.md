@@ -177,3 +177,20 @@ Benefits:
 - Code Reusability
 - Reduced Duplication
 - Better Organization
+
+## Day 16 - Polymorphism
+
+- Introduction to Polymorphism
+- Method Overriding
+- Runtime Polymorphism
+- Parent Class Reference
+- Child Class Object
+- Using @Override Annotation
+
+Example:
+
+Animal a = new Dog();
+a.sound();
+
+Output:
+Dog barks
