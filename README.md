@@ -1,14 +1,14 @@
 # java-journey.subh
 This repository contains my daily Java learning progress.
 
-### Goal
+## Goal
 Learn Java consistently
 
 Build strong programming fundamentals
 
 Prepare for DSA and Backend Development
 
-Maintain a daily GitHub contribution streak
+### daily GitHub contribution streak
 
 Day 1 - Hello World
 
@@ -30,15 +30,27 @@ Day 9 - Arrays
 
 Day 10 - Methods (Functions)
 
+Day 11 - Strings
 
-### **Day 1 - Hello World**
+Day 12 - 2D Arrays
+
+Day 13 - Classes and Objects
+
+Day 14 - Constructors
+
+Day 15 - Inheritance
+
+Day 16 - Polymorphism
+
+
+## **Day 1 - Hello World**
 - Introduction to Java
 
 - First Java Program
 
 - Printing output using System.out.println()
 
-### **Day 2 - Variables and Data Types**
+## **Day 2 - Variables and Data Types**
 - Variables
 
 - int
@@ -51,7 +63,7 @@ Day 10 - Methods (Functions)
 
 - String
 
-### **Day 3 - Operators**
+## **Day 3 - Operators**
 
 Arithmetic Operators
 
@@ -65,7 +77,7 @@ Arithmetic Operators
 
 - Modulus (%)
 
-### **Day 4 - User Input**
+## **Day 4 - User Input**
 
 - Scanner Class
 
@@ -73,7 +85,7 @@ Arithmetic Operators
 
 - Reading Strings and Numbers
 
-### **Day 5 - If Else Statements**
+## **Day 5 - If Else Statements**
 
 Conditional Statements :
 
@@ -85,7 +97,7 @@ Conditional Statements :
 
 Decision Making
 
-### **Day 6 - Switch Statements**
+## **Day 6 - Switch Statements**
 
 - switch case
 
