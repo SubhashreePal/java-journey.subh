@@ -206,3 +206,12 @@ a.sound();
 
 Output:
 Dog barks
+
+## Day 17 - Encapsulation
+
+- Introduction to Encapsulation
+- Data Hiding
+- private Access Modifier
+- Getter Methods
+- Setter Methods
+- Controlling Access to Data
