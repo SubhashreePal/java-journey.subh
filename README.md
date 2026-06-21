@@ -215,3 +215,15 @@ Dog barks
 - Getter Methods
 - Setter Methods
 - Controlling Access to Data
+
+Example:
+
+private String name;
+
+public void setName(String name) {
+    this.name = name;
+}
+
+public String getName() {
+    return name;
+}
