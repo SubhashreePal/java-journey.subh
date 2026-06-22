@@ -42,6 +42,10 @@ Day 15 - Inheritance
 
 Day 16 - Polymorphism
 
+Day 17 - Encapsulation
+
+Day 18 - Abstraction
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
