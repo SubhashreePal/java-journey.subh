@@ -227,3 +227,23 @@ public void setName(String name) {
 public String getName() {
     return name;
 }
+
+## Day 18 - Abstraction
+
+- Introduction to Abstraction
+- Abstract Classes
+- Abstract Methods
+- Hiding Implementation Details
+- Achieving Abstraction in Java
+
+Example:
+
+abstract class Animal {
+    abstract void sound();
+}
+
+class Dog extends Animal {
+    void sound() {
+        System.out.println("Dog barks");
+    }
+}
