@@ -246,6 +246,26 @@ abstract class Animal {
     abstract void sound();
 }
 
+## Day 19 - Interfaces
+
+- Introduction to Interfaces
+- Defining Methods in Interfaces
+- Implementing Interfaces
+- Multiple Classes Using the Same Interface
+- Achieving Abstraction with Interfaces
+
+Example:
+
+interface Animal {
+    void sound();
+}
+
+class Dog implements Animal {
+    public void sound() {
+        System.out.println("Dog barks");
+    }
+}
+
 class Dog extends Animal {
     void sound() {
         System.out.println("Dog barks");
