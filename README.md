@@ -269,6 +269,24 @@ class Dog implements Animal {
     }
 }
 
+## Day 20 - Exception Handling
+
+- Introduction to Exceptions
+- try Block
+- catch Block
+- finally Block
+- Handling Runtime Errors
+- Preventing Program Crashes
+
+Example:
+
+try {
+    int result = 10 / 0;
+}
+catch(Exception e) {
+    System.out.println("Cannot divide by zero");
+}
+
 class Dog extends Animal {
     void sound() {
         System.out.println("Dog barks");
