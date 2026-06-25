@@ -50,6 +50,7 @@ Day 19 - Interfaces
 
 Day 20 - Exception Handling
 
+Day 21 - ArrayList
 
 
 
@@ -295,3 +296,21 @@ class Dog extends Animal {
         System.out.println("Dog barks");
     }
 }
+
+## Day 21 - ArrayList
+
+- Introduction to Collections Framework
+- ArrayList Creation
+- Adding Elements
+- Accessing Elements
+- Removing Elements
+- Iterating through ArrayList
+
+Example:
+
+ArrayList<String> names = new ArrayList<>();
+
+names.add("Java");
+names.add("GitHub");
+
+System.out.println(names);
