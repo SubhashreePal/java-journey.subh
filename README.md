@@ -54,6 +54,8 @@ Day 21 - ArrayList
 
 
 
+
+
 ## **Day 1 - Hello World**
 - Introduction to Java
 
@@ -314,3 +316,21 @@ names.add("Java");
 names.add("GitHub");
 
 System.out.println(names);
+
+## Day 22 - HashMap
+
+- Introduction to HashMap
+- Key-Value Pairs
+- Adding Entries with put()
+- Retrieving Values with get()
+- Removing Entries with remove()
+- Iterating Through a HashMap using keySet()
+
+Example:
+
+HashMap<String, Integer> marks = new HashMap<>();
+
+marks.put("Java", 95);
+marks.put("Python", 90);
+
+System.out.println(marks.get("Java"));
