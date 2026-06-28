@@ -54,7 +54,9 @@ Day 21 - ArrayList
 
 Day 22 - HashMap
 
-Day 23 - File Handling
+Day 23 - File Creation
+
+Day 24 - Writing to File
 
 
 ## **Day 1 - Hello World**
@@ -336,7 +338,7 @@ marks.put("Python", 90);
 
 System.out.println(marks.get("Java"));
 
-## Day 23 - File Handling
+## Day 23 + Day 24 - File Handling
 
 - Creating Files
 - Writing to Files
