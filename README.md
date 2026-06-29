@@ -58,6 +58,8 @@ Day 23 - File Creation
 
 Day 24 - Writing to File
 
+Day 25 - Reading File content
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
