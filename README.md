@@ -356,3 +356,20 @@ FileWriter writer =
         new FileWriter("notes.txt");
 
 writer.write("Hello from Java!");
+
+## Day 26 - Generics
+
+- Introduction to Generics
+- Type Safety
+- Generic Collections
+- Generic Classes
+- Creating Classes with Type Parameters
+
+Example:
+
+ArrayList<String> names =
+        new ArrayList<>();
+
+class Box<T> {
+    T value;
+}
