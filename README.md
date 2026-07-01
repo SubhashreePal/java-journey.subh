@@ -62,6 +62,8 @@ Day 25 - Reading File content
 
 Day 26 - Generics
 
+Day 27 - HashSet
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
@@ -375,3 +377,23 @@ ArrayList<String> names =
 class Box<T> {
     T value;
 }
+
+## Day 27 - HashSet
+
+- Introduction to HashSet
+- Storing Unique Values
+- Adding Elements using add()
+- Checking Elements using contains()
+- Iterating through a HashSet
+- Understanding Duplicate Removal
+
+Example:
+
+HashSet<String> names =
+        new HashSet<>();
+
+names.add("Java");
+names.add("Python");
+names.add("Java");
+
+System.out.println(names);
