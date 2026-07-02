@@ -396,4 +396,21 @@ names.add("Java");
 names.add("Python");
 names.add("Java");
 
+## Day 28 - LinkedList
+
+- Introduction to LinkedList
+- Creating a LinkedList
+- Adding Elements
+- addFirst() and addLast()
+- Removing Elements
+- Iterating through a LinkedList
+
+Example:
+
+LinkedList<String> tasks =
+        new LinkedList<>();
+
+tasks.add("Java");
+tasks.add("DSA");
+
 System.out.println(names);
