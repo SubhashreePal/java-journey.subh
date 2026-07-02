@@ -64,6 +64,9 @@ Day 26 - Generics
 
 Day 27 - HashSet
 
+Day 28 - LinkedList
+
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
