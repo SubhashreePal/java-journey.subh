@@ -417,3 +417,24 @@ tasks.add("Java");
 tasks.add("DSA");
 
 System.out.println(names);
+
+## Day 29 - Queue and PriorityQueue
+
+- Introduction to Queue
+- FIFO Principle
+- Queue Operations
+  - add()
+  - poll()
+  - peek()
+- Introduction to PriorityQueue
+- Automatic Ordering of Elements
+
+Example:
+
+Queue<String> tasks =
+        new LinkedList<>();
+
+tasks.add("Java");
+tasks.add("DSA");
+
+System.out.println(tasks.peek());
