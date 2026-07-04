@@ -68,6 +68,8 @@ Day 28 - LinkedList
 
 Day 29 - Queue
 
+Day 30 - Priority Queue
+
 
 
 ## **Day 1 - Hello World**
