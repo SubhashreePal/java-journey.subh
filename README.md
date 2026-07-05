@@ -70,7 +70,7 @@ Day 29 - Queue
 
 Day 30 - Priority Queue
 
-
+Day 31 - Stack
 
 ## **Day 1 - Hello World**
 - Introduction to Java
@@ -442,3 +442,22 @@ tasks.add("Java");
 tasks.add("DSA");
 
 System.out.println(tasks.peek());
+
+## Day 31 - Stack
+
+- Introduction to Stack
+- LIFO Principle (Last In, First Out)
+- push()
+- pop()
+- peek()
+- empty()
+
+Example:
+
+Stack<String> books =
+        new Stack<>();
+
+books.push("Java");
+books.push("DSA");
+
+System.out.println(books.peek());
