@@ -72,6 +72,8 @@ Day 30 - Priority Queue
 
 Day 31 - Stack
 
+Day 32 - Lambda Expressions
+
 ## **Day 1 - Hello World**
 - Introduction to Java
 
