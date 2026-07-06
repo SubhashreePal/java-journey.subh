@@ -461,3 +461,18 @@ books.push("Java");
 books.push("DSA");
 
 System.out.println(books.peek());
+
+## Day 32 - Lambda Expressions
+
+- Introduction to Lambda Expressions
+- Functional Interfaces
+- Lambda Syntax
+- Lambdas with Parameters
+- Using Lambdas with Collections
+
+Example:
+
+Greeting g = () ->
+        System.out.println("Hello!");
+
+Square s = (x) -> x * x;
