@@ -74,6 +74,8 @@ Day 31 - Stack
 
 Day 32 - Lambda Expressions
 
+Day 33 - Lambda with ArrayList
+
 ## **Day 1 - Hello World**
 - Introduction to Java
 
@@ -464,7 +466,7 @@ books.push("DSA");
 
 System.out.println(books.peek());
 
-## Day 32 - Lambda Expressions
+## Day 32 + Day 33 - Lambda Expressions
 
 - Introduction to Lambda Expressions
 - Functional Interfaces
