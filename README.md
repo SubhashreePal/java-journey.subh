@@ -483,3 +483,19 @@ Greeting g = () ->
         System.out.println("Hello!");
 
 Square s = (x) -> x * x;
+
+## Day 34 - Java Streams API
+
+- Introduction to Streams
+- Creating Streams
+- forEach()
+- filter()
+- map()
+- count()
+- Processing Collections with Streams
+
+Example:
+
+numbers.stream()
+       .filter(n -> n % 2 == 0)
+       .forEach(System.out::println);
