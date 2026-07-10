@@ -76,6 +76,9 @@ Day 32 - Lambda Expressions
 
 Day 33 - Lambda with ArrayList
 
+Day 34 - Basic Java Streams API
+
+
 ## **Day 1 - Hello World**
 - Introduction to Java
 
