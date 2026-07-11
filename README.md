@@ -78,6 +78,8 @@ Day 33 - Lambda with ArrayList
 
 Day 34 - Basic Java Streams API
 
+Day 35 - Java Streams API
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
@@ -484,7 +486,7 @@ Greeting g = () ->
 
 Square s = (x) -> x * x;
 
-## Day 34 - Java Streams API
+## Day 34 + Day 35 - Java Streams API
 
 - Introduction to Streams
 - Creating Streams
