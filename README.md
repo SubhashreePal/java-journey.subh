@@ -434,7 +434,7 @@ tasks.add("DSA");
 
 System.out.println(names);
 
-## Day 29 + Day 30 - Queue and PriorityQueue
+## Day 29 + Day 30 + Day 36 - Queue and PriorityQueue
 
 - Introduction to Queue
 - FIFO Principle
