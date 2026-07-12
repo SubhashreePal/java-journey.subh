@@ -80,6 +80,9 @@ Day 34 - Basic Java Streams API
 
 Day 35 - Java Streams API
 
+Day 36 - PriorityQueue
+
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
