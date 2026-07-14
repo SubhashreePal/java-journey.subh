@@ -24,7 +24,7 @@ Day 6 - Switch Statements
 
 Day 7 - For Loops
 
-Day 8 - Nested Loops and Patterns
+Day 8 + Day38 - Nested Loops and Patterns
 
 Day 9 - Arrays
 
@@ -83,6 +83,7 @@ Day 35 - Java Streams API
 Day 36 - PriorityQueue
 
 Day 37 : Stack Underflow
+
 
 ## **Day 1 - Hello World**
 - Introduction to Java
